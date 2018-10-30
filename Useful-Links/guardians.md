@@ -1,18 +1,40 @@
-Report new Guardian Ruins and Guardian Structures: https://canonn.fyi/grreport 
-See all current Guardian Ruins and Structures: https://canonn.fyi/grsheet
+**-- Guardians Reporting & Data Sheets --**
 
-Guardian Beacon list and report form: https://canonn.fyi/gbsheet & https://canonn.fyi/gbreport
+1) Guardian Structures & Ruins
+    A) Reporting: <https://canonn.fyi/grreport>
+    B) Data Sheet: <https://canonn.fyi/grsheet>
+2) Guardian Beacons
+    A) Reporting: <https://canonn.fyi/gbreport>
+    B) Data Sheet: <https://canonn.fyi/gbsheet>
 
-Maps for where the Guardians are in the galaxy: https://map.canonn.technology/gr-data.html
-Maps of many of the Guardian Ruin layouts: https://ruins.canonn.technology/#
+-------------------------------------
 
-Guide to finding new Ruins: https://canonn.science/codex/finding-guardian-ruins/
+**-- Guardians Maps & Guides --**
 
-Lots more things you can view / report: https://canonn.fyi/cdb
+Lots more things you can view / report: <https://canonn.fyi/cdb>
 
-Guide to Guardian Structures (including blueprint locations) https://canonn.science/codex/guardian-structure/
-Ram Tah mission #1 Guide (Decoding the Ancient Ruins): https://canonn.science/codex/ram-tahs-mission/
-Ram Tah mission #2 Guide (Decrypting the Guardian Logs): https://canonn.science/codex/ram-tah-decrypting-the-guardian-logs/
+Canonn ED3D Map for Guardians: <https://map.canonn.technology/gr-data.html>
 
-Zebarmy's Item Glyph Guide: https://ruins.canonn.technology/other/30Artefacts.png
-Zebarmy's latest Guardian Structure schematics: https://imgur.com/a/GWQ4w
+1) Guardian Ruins Site Layouts
+    A) Alpha: <https://ruins.canonn.technology/#GR99997>
+    B) Beta: <https://ruins.canonn.technology/#GR99998>
+    C) Gamma: <https://ruins.canonn.technology/#GR99999>
+2) Guardian Structures Site Layouts
+    A) Tiny & Small Structures (Credit: Zebarmy): <https://imgur.com/a/GWQ4w>
+    B) Medium Structures (Credit: Steve Arthur): <https://imgur.com/a/YobdcSq>
+3) Obelisk Glyphs: <https://ruins.canonn.technology/other/30Artefacts.png>
+
+Guide to finding new Ruins: <https://canonn.science/codex/finding-guardian-ruins/>
+
+Guide to Guardian Structures (including blueprint locations) <https://canonn.science/codex/guardian-structure/>
+Ram Tah mission #1 Guide (Decoding the Ancient Ruins): <https://canonn.science/codex/ram-tahs-mission/>
+Ram Tah mission #2 Guide (Decrypting the Guardian Logs): <https://canonn.science/codex/ram-tah-decrypting-the-guardian-logs/>
+
+-------------------------------------
+
+**-- Guardians Tutorial Videos --**
+
+** How to find Guardian Beacons, Structures, and more**
+*Credit: CMDR* @GURU-951#7482 
+
+https://www.youtube.com/watch?v=jL-nT4A2LLU
