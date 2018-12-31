@@ -1,26 +1,59 @@
-The following are useful links for Fumaroles, Geysers, Lava Spouts, and Organics:
+**-- Geology Reporting & Data Sheets --**
 
-Fumarole Data Sheet       : https://canonn.fyi/fmsheet
-Fumarole Report Form     : https://canonn.fyi/fmreport
-Geyser Data Sheet            : https://canonn.fyi/gysheet
-Geyser Report Form          : https://canonn.fyi/gyreport
-Lava Spout Data Sheet     : https://canonn.fyi/lssheet
-Lava Spout Report Form   : https://canonn.fyi/lsreport
-Brain Tree Data Sheet       :https://canonn.fyi/btsheet
-Brain Tree Report Form     :https://canonn.fyi/btreport
-Bark Mound Data Sheet    :https://canonn.fyi/bmsheet
-Bark Mound Report Form  : https://canonn.fyi/bmreport
-Barnacle Data Sheet         : https://goo.gl/3mpjTX
-Barnacle Report Form       :https://canonn.fyi/tbreport
-Fungal Gourd Data Sheet  :https://canonn.fyi/fgsheet
-Fungal Gourd Report Form:https://canonn.fyi/fgreport
-Tube Worm Data Sheet     :https://canonn.fyi/twsheet
-Tube Worm Report Form  :https://canonn.fyi/twreport
+1) Crystalline Shards
+    A) Reporting: <https://canonn.fyi/csreport>
+    B) Data Sheet: <https://canonn.fyi/cssheet>
+2) Fumaroles
+    A) Reporting: <https://canonn.fyi/fmreport>
+    B) Data Sheet: <https://canonn.fyi/fmsheet>
+3) Geysers
+    A) Reporting: <https://canonn.fyi/gyreport>
+    B) Data Sheet: <https://canonn.fyi/gysheet>
+3) Lava Spouts
+    A) Reporting: <https://canonn.fyi/lsreport>
+    B) Data Sheet: <https://canonn.fyi/lssheet>
 
-All of the links above can be found in the Canonn Universal Science Database: https://canonn.fyi/cdb(edited)
-Canonn Standard Operation Procedure For Reporting New Sites
+-------------------------------------
 
-The following is a list of best practices for reporting a new surface site.
+**-- Biology Reporting & Data Sheets --**
+
+1) Bark Mounds
+    A) Reporting: <https://canonn.fyi/bmreport>
+    B) Data Sheet: <https://canonn.fyi/bmsheet>
+2) Brain Trees
+    A) Reporting: <https://canonn.fyi/btreport>
+    B) Data Sheet: <https://canonn.fyi/btsheet>
+3) Fungal Gourds
+    A) Reporting: <https://canonn.fyi/fgreport>
+    B) Data Sheet: <https://canonn.fyi/fgsheet>
+3) Thargoid Barnacles
+    A) Reporting: <https://canonn.fyi/tbreport>
+    B) Data Sheet: <https://canonn.fyi/tbsheet>
+3) Tube Worms
+    A) Reporting: <https://canonn.fyi/twreport>
+    B) Data Sheet: <https://canonn.fyi/twsheet>
+
+-------------------------------------
+
+**-- Geology & Biology Maps & Guides --**
+
+Lots more things you can view / report: <https://canonn.fyi/cdb>
+
+Canonn ED3D Map for Geology: <https://map.canonn.tech/geology-combo.html>
+Canonn ED3D Map for Biology: <https://map.canonn.tech/biology-combo.html>
+
+**A Canonn Guide to Surface Organics**: <https://docs.google.com/document/d/1ITUIeAbSs_lYSJqgBIcRY9gYKOKEn9xydj6GSpk3-EY>
+**CMDR Baton's Volcanic/Organics POI Guide**: <https://youtu.be/RLGpfOyz9to>
+**Boffin MadRaptor's MWSOG Thread**: <https://forums.frontier.co.uk/showthread.php/293012-Geyser-and-Fumarole-Location-Catalog-and-Data-Collection>
+
+**CMDR GURU-951's Video guide on Brain Trees**: <https://youtu.be/fZZJcsZSl9k>
+**CMDR Baton's Brain Tree Guide**: <https://forums.frontier.co.uk/showthread.php/391830-Brain-trees-How-To-Guide?p=6155454&viewfull=1#post6155454>
+
+**CMDR Baton's Fungal Gourd Guide**: <https://forums.frontier.co.uk/showthread.php/424590-Space-pumpkins-story-so-far-and-a-new-discovery>
+
+------------------------------------
+
+__**The following is a list of best practices for reporting a new surface site.**__
 
 1)The top requirement is a cockpit screenshot of the site that captures the following pieces of data:
      A) Latitude and Longitude, all digits should be clearly visible
@@ -30,7 +63,4 @@ The following is a list of best practices for reporting a new surface site.
      A) Fumarole (strictly smokey phenomenon)
      B) Geyser (has nodes that spew liquid and nodes that spew jets of gas)
      C) Lava Spout (the so-called “campfires” that spew glowing lava)
-3) If the new site does not conform to a known phenomenon, then it should be reported as “Unknown” or “Undetermined” with the following form https://report.canonn.technology/(edited)
-Salute
-7
-
+3) If the new site does not conform to a known phenomenon, then it should be reported as “Unknown” or “Undetermined” with the following form <https://canonn.fyi/report>
