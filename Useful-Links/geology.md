@@ -1,36 +1,42 @@
 **-- Geology Reporting & Data Sheets --**
 
 1) Crystalline Shards
-    A) Reporting: <https://canonn.fyi/csreport>
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/cssheet>
 2) Fumaroles
-    A) Reporting: <https://canonn.fyi/fmreport>
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/fmsheet>
+3) Gas Vents
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
+    B) Data Sheet: <https://canonn.fyi/gvsheet>
 3) Geysers
-    A) Reporting: <https://canonn.fyi/gyreport>
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/gysheet>
 3) Lava Spouts
-    A) Reporting: <https://canonn.fyi/lsreport>
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/lssheet>
 
 -------------------------------------
 
 **-- Biology Reporting & Data Sheets --**
 
-1) Bark Mounds
-    A) Reporting: <https://canonn.fyi/bmreport>
+1) Amphora Plants
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
+    B) Data Sheet <https://canonn.fyi/apsheet>
+2) Bark Mounds
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/bmsheet>
-2) Brain Trees
-    A) Reporting: <https://canonn.fyi/btreport>
+3) Brain Trees
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/btsheet>
-3) Fungal Gourds
-    A) Reporting: <https://canonn.fyi/fgreport>
+4) Fungal Gourds
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/fgsheet>
-3) Thargoid Barnacles
+5) Thargoid Barnacles
     A) Reporting: <https://canonn.fyi/tbreport>
     B) Data Sheet: <https://canonn.fyi/tbsheet>
-3) Tube Worms
-    A) Reporting: <https://canonn.fyi/twreport>
+6) Tube Worms
+    A) Reporting: <https://canonn.fyi/EDMC-USS-Survey>
     B) Data Sheet: <https://canonn.fyi/twsheet>
 
 -------------------------------------
